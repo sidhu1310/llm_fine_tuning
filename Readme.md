@@ -26,7 +26,7 @@ This project focuses on fine-tuning a Large Language Model (LLM) using a Jupyter
 
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/sidhu1310/llm_fine_tuning.git
    cd llm_fine_tuning
    ```
 2. **Create a Virtual Environment:**
